@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuhaoshan)](https://github.com/fuhaoshan/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuhaoshan&repo=github-readme-stats)](https://github.com/fuhaoshan/github-readme-stats)
